@@ -1,0 +1,41 @@
+.win-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.win-text-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.won-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.best-score {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.score-12 {
+  color: #6a59ff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.play-button {
+  color: #3d3d3d;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: #ffce27;
+  height: 20px;
+  width: 80px;
+  border-radius: 10px;
+  border-width: 0px;
+}

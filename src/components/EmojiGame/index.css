@@ -1,0 +1,10 @@
+.main-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 80vh;
+  width: 90vh;
+}
+
+.un-ordered-list {
+  display: flex;
+  flex-wrap: wrap;
+}

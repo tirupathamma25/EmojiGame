@@ -1,0 +1,38 @@
+.nav-bar-container {
+  background-color: #9796f0;
+
+  height: 8vh;
+  width: 90vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+  width: 40px;
+}
+
+.logo-text {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.score {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.score-card {
+  display: flex;
+}
